@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Puja Goswami!
+- 👋 Hello, I am Puja Goswami!
 
 👩‍💼 Electrical Engineer | 🎓 Masters in IT | 📊 Data Analytics Enthusiast
 
