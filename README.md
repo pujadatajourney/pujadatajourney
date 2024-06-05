@@ -15,7 +15,3 @@
 ⚡ Fun fact: I enjoy experimenting with new recipes in the kitchen and exploring different cuisines.
 
 
-<!---
-pujadatajourney/pujadatajourney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
