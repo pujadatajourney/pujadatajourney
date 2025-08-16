@@ -1,17 +1,16 @@
-- 👋 Hello, I am Puja Goswami!
+👋 Hi, I'm Puja Goswami
 
-👩‍💼 Electrical Engineer | 🎓 Masters in IT | 📊 Data Analytics Enthusiast
+👩‍💼 Electrical Engineer | 🎓 Master’s in IT | 📊 Data Analytics Enthusiast
 
-🔍 Leveraging the power of data to drive informed decisions and enhance processes.
+🔍 Passionate about leveraging data to drive smarter decisions, optimize processes, and uncover meaningful insights.
 
-🌱 Currently delving deeper into advanced statistical analysis and data visualization techniques.
+🌱 Currently expanding my expertise in advanced statistical analysis and data visualization.
 
-💼 Seeking opportunities to apply my analytical skills in diverse domains, from energy systems to digital technology.
+💼 Open to opportunities where I can apply my analytical skills across domains—ranging from energy systems to digital technologies.
 
-💬 Let's chat about data storytelling, machine learning applications, or the latest tech trends!
+💬 Always excited to talk about data storytelling, machine learning applications, and emerging tech trends.
 
 📧 Reach me at: pujagoswami8461@gmail.com
 
-⚡ Fun fact: I enjoy experimenting with new recipes in the kitchen and exploring different cuisines.
-
+⚡ Fun fact: I love experimenting with recipes and discovering new cuisines.
 
